@@ -1,0 +1,27 @@
+{
+    "id": "1F3F3440",
+    "path": "D:/programming-for-ai/data_preparation_r/main.R",
+    "project_path": "main.R",
+    "type": "r_source",
+    "hash": "3363301115",
+    "contents": "",
+    "dirty": false,
+    "created": 1745317866472.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "61,0",
+        "scrollLine": "0"
+    },
+    "folds": "2|27|20|2|\n21|24|44|0|\n45|45|61|0|\n62|29|97|0|\n98|13|111|0|\n",
+    "lastKnownWriteTime": 1745765541,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745765541995,
+    "read_only": false,
+    "read_only_alternatives": []
+}

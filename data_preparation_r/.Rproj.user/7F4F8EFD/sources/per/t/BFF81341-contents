@@ -1,0 +1,49 @@
+?mean
+ages <- c(1,20,30)
+ages
+?c()
+names <- c("Ali", "Shayan", "Arqam")
+ages <- c(19, 20 ,21)
+friends <- data.frame(names, ages)
+View(friends)
+friends$ages
+friends[1,1]
+friends[1,]
+friends[,1]
+data()
+
+# Install packages 
+install.packages("tidyverse")
+library(tidyverse) # use it
+
+View(starwars) 
+starwars %>%
+  filter(height > 150 & mass < 200) %>% 
+  mutate(height_in_meters = height / 100) %>% 
+  select(height_in_meters, mass) %>% 
+  arrange(-mass) %>% 
+  #view()
+  plot()
+
+view(msleep)
+glimpse(msleep)
+head(msleep)
+class(msleep$name)
+length(msleep)
+length(msleep$name)
+names(msleep)
+print("Helo")
+
+library(ggplot2)
+View(diamonds)
+library(tidyverse)
+
+diamonds %>% 
+  select( color,carat, cut,price) %>%
+  na.omit() %>% 
+  mutate(price_per_carat = price / carat) %>% 
+  filter(cut %in% c("Premium" , "Ideal", "Very Good")) %>%
+  group_by(color)  %>%
+  summarise(Average_price_per_carat = mean(price_per_carat)) %>% 
+  View()
+

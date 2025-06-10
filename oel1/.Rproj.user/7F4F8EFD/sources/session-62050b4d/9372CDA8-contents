@@ -1,0 +1,19 @@
+library(tidyverse)
+data1 <- read.csv("student_scores.csv")
+view(data1)
+# Replace all NA values in Attendance_Percentage with the average attendance of the class.
+Attendance_Percentage <- data1$Attendance_Percentage %>% na.omit() 
+Attendance_Percentage_mean <- mean(Attendance_Percentage)
+Attendance_Percentage_mean
+
+
+data1 %>% filter(is.na(Attendance_Percentage) ) %>% 
+  mutate(Attendance_Percentage =Attendance_Percentage_mean) %>% 
+  view()
+
+# Create a new column Average_Score as the mean of the three subject scores (Math, Physics, Chemistry).
+data1 %>% mutate(Average_Score = mean(Math_Score, Physics_Score, Chemistry_Score) ) %>% view()
+
+# Filter all female students with an Average_Score greater than 75 and Attendance_Percentage over 80%
+data1 %>% group_by(Gender)
+

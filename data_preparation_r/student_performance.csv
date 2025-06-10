@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Math_Score,English_Score,Science_Score,Attendance_Percentage,Study_Hours_Per_Week,School_Type,Passed,Remarks
+1,Student_1,Male,71,89,47,77.69,12.4,Government,Yes,Average
+2,Student_2,Other,78,90,84,69.59,38.1,Private,Yes,Average
+3,Student_3,Female,88,51,90,63.75,32.3,Government,No,Good
+4,Student_4,Female,91,72,68,67.31,9.0,Private,Yes,Good
+5,Student_5,Male,71,58,94,97.38,37.6,Government,No,Average
+6,Student_6,Male,43,45,76,85.53,39.1,Government,Yes,Excellent
+7,Student_7,Male,69,50,91,80.67,39.9,Private,Yes,nan
+8,Student_8,Female,76,93,66,86.28,7.0,Private,Yes,Excellent
+9,Student_9,Female,62,37,67,77.43,30.8,Private,Yes,Excellent
+10,Student_10,Female,78,54,46,89.2,24.1,Private,Yes,Excellent
+11,Student_11,Male,84,93,71,61.91,29.7,Private,Yes,Excellent
+12,Student_12,Other,54,70,86,82.64,38.9,Government,Yes,Excellent
+13,Student_13,Female,82,53,46,66.35,29.1,Government,Yes,nan
+14,Student_14,Male,68,53,70,64.81,34.3,Government,Yes,Good
+15,Student_15,Male,75,54,61,73.68,35.3,Government,Yes,Needs Improvement
+16,Student_16,Male,52,86,84,63.67,34.3,Government,Yes,Average
+17,Student_17,Male,71,67,77,63.77,19.9,Government,No,Good
+18,Student_18,Female,46,74,53,72.46,12.8,Government,Yes,Needs Improvement
+19,Student_19,Male,98,73,87,99.18,18.9,Private,Yes,Needs Improvement
+20,Student_20,Male,90,35,98,67.01,36.2,Private,Yes,Needs Improvement
+21,Student_21,Female,61,45,92,60.69,10.1,Private,Yes,Excellent
+22,Student_22,Male,67,91,83,90.53,23.0,Private,Yes,Average
+23,Student_23,Male,41,84,73,92.28,13.2,Private,Yes,Needs Improvement
+24,Student_24,Male,81,57,86,73.85,25.3,Private,Yes,Needs Improvement
+25,Student_25,Female,84,65,99,78.59,35.2,Government,Yes,Good
+26,Student_26,Female,96,76,70,85.99,35.8,Government,Yes,Needs Improvement
+27,Student_27,Male,92,41,79,61.92,13.3,Private,Yes,Good
+28,Student_28,Female,45,50,94,97.97,36.8,Private,Yes,Good
+29,Student_29,Female,67,94,69,95.47,25.7,Private,Yes,Needs Improvement
+30,Student_30,Male,67,36,68,70.44,17.3,Private,Yes,nan
+31,Student_31,Female,83,35,57,60.61,29.8,Private,Yes,Good
+32,Student_32,Male,83,82,51,97.34,21.9,Government,Yes,Needs Improvement
+33,Student_33,Male,59,46,80,80.04,18.2,Private,Yes,Good
+34,Student_34,Other,69,71,89,81.58,29.7,Government,Yes,Good
+35,Student_35,Other,50,66,64,87.36,13.7,Government,Yes,Excellent
+36,Student_36,Female,97,43,45,84.63,16.6,Private,Yes,Needs Improvement
+37,Student_37,Male,94,53,52,97.76,20.2,Government,Yes,nan
+38,Student_38,Male,67,82,90,97.77,13.9,Government,Yes,Average
+39,Student_39,Female,64,37,60,94.69,19.2,Private,Yes,Needs Improvement
+40,Student_40,Male,78,54,58,85.46,25.0,Private,No,Excellent
+41,Student_41,Male,72,58,56,92.04,30.9,Government,Yes,Needs Improvement
+42,Student_42,Female,40,88,95,87.09,31.9,Government,Yes,Average
+43,Student_43,Male,96,67,67,82.93,33.8,Government,Yes,Excellent
+44,Student_44,Other,66,58,59,65.14,31.0,Government,Yes,Excellent
+45,Student_45,Male,96,70,72,92.45,28.8,Government,No,Excellent
+46,Student_46,Female,91,72,78,92.83,13.3,Government,Yes,nan
+47,Student_47,Male,52,59,46,85.04,19.0,Government,Yes,Good
+48,Student_48,Female,80,52,76,92.82,21.7,Government,Yes,Excellent
+49,Student_49,Female,42,88,67,86.06,7.9,Government,Yes,Needs Improvement
+50,Student_50,Male,78,69,66,68.27,23.5,Private,No,Excellent
+51,Student_51,Other,45,95,95,70.96,20.3,Government,Yes,nan
+52,Student_52,Female,47,75,69,68.58,33.1,Government,Yes,Needs Improvement
+53,Student_53,Other,66,67,66,75.09,39.2,Private,Yes,Good
+54,Student_54,Female,48,67,66,61.56,24.5,Government,Yes,Needs Improvement
+55,Student_55,Female,76,48,93,84.73,16.3,Private,Yes,Needs Improvement
+56,Student_56,Other,72,55,96,73.46,6.5,Government,Yes,Needs Improvement
+57,Student_57,Male,90,82,86,86.23,37.4,Government,Yes,Needs Improvement
+58,Student_58,Male,81,54,50,75.42,37.2,Government,No,Needs Improvement
+59,Student_59,Male,83,42,59,87.26,13.9,Private,No,Good
+60,Student_60,Male,63,41,98,73.62,29.3,Government,Yes,Excellent
+61,Student_61,Male,54,51,87,70.43,7.6,Government,No,nan
+62,Student_62,Male,98,67,81,79.84,10.8,Private,Yes,Needs Improvement
+63,Student_63,Female,93,82,77,87.72,12.6,Private,No,Needs Improvement
+64,Student_64,Male,71,93,52,73.93,15.3,Government,Yes,Excellent
+65,Student_65,Male,71,56,97,97.47,39.9,Private,Yes,Needs Improvement
+66,Student_66,Female,63,64,88,61.57,29.4,Private,Yes,Excellent
+67,Student_67,Male,80,72,88,76.72,18.4,Government,Yes,Average
+68,Student_68,Female,91,85,49,98.7,30.8,Private,Yes,Good
+69,Student_69,Male,88,88,83,81.92,37.0,Government,Yes,Good
+70,Student_70,Other,88,42,48,76.94,38.6,Private,Yes,Good
+71,Student_71,Female,97,61,50,82.74,7.0,Government,Yes,Good
+72,Student_72,Male,91,61,89,83.04,18.8,Private,No,Needs Improvement
+73,Student_73,Male,51,55,76,89.27,8.7,Government,Yes,Average
+74,Student_74,Female,78,64,96,65.11,16.7,Private,Yes,nan
+75,Student_75,Female,41,62,74,70.0,10.9,Government,Yes,nan
+76,Student_76,Female,42,98,91,83.22,27.6,Private,Yes,Good
+77,Student_77,Female,88,95,79,94.68,18.6,Government,Yes,Excellent
+78,Student_78,Male,76,82,99,82.47,13.0,Government,Yes,Needs Improvement
+79,Student_79,Male,88,53,84,69.54,14.3,Government,Yes,nan
+80,Student_80,Male,95,38,96,87.19,17.6,Government,Yes,Average
+81,Student_81,Female,56,69,60,89.6,14.1,Private,No,Excellent
+82,Student_82,Female,98,98,57,69.53,20.9,Government,Yes,nan
+83,Student_83,Male,88,83,94,75.11,6.1,Private,Yes,Needs Improvement
+84,Student_84,Male,41,51,86,81.37,14.8,Private,Yes,Excellent
+85,Student_85,Male,41,78,74,79.86,19.4,Private,Yes,Good
+86,Student_86,Male,67,64,63,75.58,26.1,Government,Yes,nan
+87,Student_87,Female,93,80,61,71.91,14.5,Government,Yes,nan
+88,Student_88,Female,62,40,63,64.0,9.7,Private,Yes,nan
+89,Student_89,Female,76,71,72,62.14,7.7,Government,Yes,Excellent
+90,Student_90,Female,71,58,99,98.34,37.9,Private,Yes,Average
+91,Student_91,Male,72,80,70,93.89,19.6,Private,Yes,nan
+92,Student_92,Female,40,87,81,74.2,25.3,Private,Yes,Good
+93,Student_93,Female,58,94,70,98.27,37.2,Private,Yes,nan
+94,Student_94,Female,41,97,97,87.07,7.9,Private,Yes,nan
+95,Student_95,Female,92,66,67,79.3,35.7,Government,Yes,Excellent
+96,Student_96,Female,83,67,53,79.72,24.3,Government,Yes,Good
+97,Student_97,Female,65,52,56,63.33,10.8,Private,Yes,Good
+98,Student_98,Male,71,59,97,63.67,19.4,Private,No,Good
+99,Student_99,Male,45,88,45,84.1,32.2,Private,Yes,Needs Improvement
+100,Student_100,Male,71,92,45,82.15,21.8,Government,Yes,Good
